@@ -1,0 +1,16 @@
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\bin\Debug\netcoreapp3.1\Tienda_Electronica.exe
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\bin\Debug\netcoreapp3.1\Tienda_Electronica.deps.json
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\bin\Debug\netcoreapp3.1\Tienda_Electronica.runtimeconfig.json
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\bin\Debug\netcoreapp3.1\Tienda_Electronica.runtimeconfig.dev.json
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\bin\Debug\netcoreapp3.1\Tienda_Electronica.dll
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\bin\Debug\netcoreapp3.1\Tienda_Electronica.pdb
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\obj\Debug\netcoreapp3.1\Tienda_Electronica.csprojAssemblyReference.cache
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\obj\Debug\netcoreapp3.1\Tienda_Electronica.Form1.resources
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\obj\Debug\netcoreapp3.1\Tienda_Electronica.Properties.Resources.resources
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\obj\Debug\netcoreapp3.1\Tienda_Electronica.csproj.GenerateResource.cache
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\obj\Debug\netcoreapp3.1\Tienda_Electronica.AssemblyInfoInputs.cache
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\obj\Debug\netcoreapp3.1\Tienda_Electronica.AssemblyInfo.cs
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\obj\Debug\netcoreapp3.1\Tienda_Electronica.csproj.CoreCompileInputs.cache
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\obj\Debug\netcoreapp3.1\Tienda_Electronica.dll
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\obj\Debug\netcoreapp3.1\Tienda_Electronica.pdb
+C:\Users\Manchas\source\repos\Tienda_Electronica\Tienda_Electronica\obj\Debug\netcoreapp3.1\Tienda_Electronica.genruntimeconfig.cache
